@@ -32,7 +32,6 @@ Le protocol RepositoryType, permet d'effectuer des tests sur la classe Repositor
 
 Le ViewModel est responsable de la logique de l'application et de la commande de l'actualisation des vues. 
 Il est divisé en deux parties:
-#### ViewModel:
 * **Inputs**: Tous les événements utilisateur du ViewController doivent être implémenté dans le ViewModel. 
 Le premier et principal évenement est "ViewDidAppear", l'apparition de la vue
 * **Outputs**: 
