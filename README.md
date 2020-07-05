@@ -6,7 +6,7 @@ Exécuter le fichier NumeriquesNewsFeed.xcworkspace afin de lancer le projet
 L'architecture est divisée en plusieurs concepts 🏋️‍♀️: 
 * `AppCoordinator`
 * `Delegate`
-* `MVVM
+* `MVVM`
 * `Repositories`
 * `Network`
 * `Tests`
