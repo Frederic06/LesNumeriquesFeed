@@ -13,7 +13,7 @@ L'architecture est divisée en plusieurs concepts 🏋️‍♀️:
 
 ## Intro
 
-Ce projet a été réalisé afin de garder la main sur les .
+Ce projet est un projet démo personnel réalisé sur quelques heures.
 
 ## Architecture
 
