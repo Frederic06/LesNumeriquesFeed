@@ -56,3 +56,8 @@ J'ai utilisé le framework FeedKit afin de faciliter la récupération des donn�
 Améliorations à apporter: effectuer les tests unitaires, présenter plus proprement les autres données récupérées du feed. 
 
 👊👊👊
+
+
+
+![Alt text](IMG_5623.png?raw=true "Optional Title")
+![Alt text](IMG_5624.png?raw=true "Optional Title")
